@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.mridang.callstats" >
+
+    <EditTextPreference
+        android:key="number"
+        android:summary="@string/nummary"
+        android:title="@string/number" />
+    <EditTextPreference
+        android:key="message"
+        android:summary="@string/messary"
+        android:title="@string/message" />
+
+</PreferenceScreen>

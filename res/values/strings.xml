@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="extension_name">Operator</string>
+    <string name="application_name">Dashclock Operator Extension</string>
+    <string name="preferences_title">Operator Extension Settings</string>
+    <string name="extension_info">Displays information by texting your operator.</string>
+    <string name="status">Received update from operator</string>
+    <string name="number">Number</string>
+    <string name="nummary">The number to which to send the message to</string>
+    <string name="message">Message</string>
+    <string name="messary">The text message to be sent</string>
+
+</resources>
