@@ -111,7 +111,7 @@ public class OperatorWidget extends DashClockExtension {
 
 		super.onCreate();
 		Log.d("OperatorWidget", "Created");
-		ACRA.init(getApplication());
+		ACRA.init(new AcraApplication(getApplicationContext()));
 
 	}
 
